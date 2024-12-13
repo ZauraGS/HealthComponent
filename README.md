@@ -43,3 +43,7 @@ The primary reason this component is a Node is for ease of use. It allows you to
 Lastly, the health component can be used for a lot of different projects and entities. You don't necessarily need to serialize the health of a choppable tree, or a rodent enemy of Arena Survival game.
 
 If you need to optimize further, you should be proficient enough to remove the @exports and change it to a RefCounted type, and add an _init() function.
+
+## Credits
+
+Pixel-Boy for his Godot Node Icons: https://pixel-boy.itch.io/icon-godot-node
