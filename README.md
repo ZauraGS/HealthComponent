@@ -3,6 +3,7 @@
 A simple Node based approach to composition of health. When attached to a parent node you will grant it health related functions and let it micro manage the small details, such as clamping and detecting death. Combined with Signals you can easily get relevant information from the component without calling it from a process function.
 
 In this project you will find a basic UI setup to control and exercise almost all functions you would typically use in your own.
+![Godot_v4 3-stable_win64_4P8Jsw7Hlz](https://github.com/user-attachments/assets/d6392c21-bec6-4a18-8fc6-3b7c2b394509)
 
 If you're new to Composition, I suggest watching these excellent videos on the subject.
 - [Bitlytic](https://www.youtube.com/watch?v=74y6zWZfQKk)
